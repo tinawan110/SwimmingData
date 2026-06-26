@@ -1,2 +1,0 @@
-version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
-4,Watch6.2,1782477541405,2026-06-26_12-39-01,America/Toronto,watchos,1.60.1,4FAE1E74-3075-4ABE-9AF2-EE9229BB0F63,WatchCompass|WatchAccelerometerUncalibrated|WristMotion|WatchBarometer|WatchMagnetometer|HeartRate|WatchLocation,0|0|0|0|0|0|0,false
